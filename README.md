@@ -1,5 +1,4 @@
 # Introduction:
-This plugin was made to test on velocity and paper servers and it was basically my first ever plugin on minecraft.
-
+Semi-Modular Welcomer plugin for Paper servers.
 ## purpose:
 Welcomes the user to the server which has this plugin.
